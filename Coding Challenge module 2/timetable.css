@@ -1,0 +1,16 @@
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    /* border-radius: 8px; */
+}
+.break {
+    font-weight: bold;
+}
+.standard4 {
+    margin-left: 3%;
+    margin-top: 11%;
+}
+#std4 {
+    font-size: 51px;
+}
